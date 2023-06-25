@@ -1,12 +1,12 @@
-### Hi there 👋
-
-### Hi there 👋, Krati Goyal
-#### Design and Development
 ![Design and Development](https://i.imgur.com/1Zz9Fpz.png)
 
+# Krati Goyal
 I'm Krati from India, and I am improving myself to myself to push my limits on Design and Development. I also enjoy wireframing, Ui, Ux and 3d designing.
 
-Skills:  REACT / JS / HTML / CSS
+## Skills and Experience
+* ⚛️ React
+* 📱React Native
+* 💻 HTML, CSS, JS
 
 - 🔭 I’m currently working on to develop my dimension 
 
