@@ -16,6 +16,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kratigoyal34)](https://github.com/anuraghazra/github-readme-stats)
 
+[![An image of @kratigoyal34's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kratigoyal34)](https://holopin.io/@kratigoyal34)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kratigoyal34&show_icons=true)  
 
 
